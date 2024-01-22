@@ -1,0 +1,7 @@
+quickSort.java
+Type: Random
+Elapsed time: 1015301500
+Elapsed CPU time: 406250000
+Heap memory: 258284640 bytes
+Non-heap memory: 8814712 bytes
+
