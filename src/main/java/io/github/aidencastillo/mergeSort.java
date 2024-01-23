@@ -11,7 +11,7 @@ public class mergeSort {
     public mergeSort(String arg) {
         ObjectMapper objectMapper = new ObjectMapper();
         // load from arrays.json file
-        String fileName = "million.json";
+        String fileName = "largeArrays.json";
 
         try {
             JsonNode rootNode = objectMapper.readTree(new File(fileName));

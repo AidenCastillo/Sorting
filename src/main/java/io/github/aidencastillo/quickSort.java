@@ -8,9 +8,10 @@ import java.io.IOException;
 import java.util.List;
 
 public class quickSort {
-    public quickSort(String type, String fileName) throws IOException {
+    public quickSort(String type) throws IOException {
         ObjectMapper objectMapper = new ObjectMapper();
         // load from arrays.json file
+        String fileName = "largeArrays.json";
 
         try {
             JsonNode rootNode = objectMapper.readTree(new File(fileName));

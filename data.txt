@@ -1,7 +1,7 @@
-quickSort.java
-Type: Random
-Elapsed time: 1015301500
+bubbleSort.java
+Type: Duplicates
+Elapsed time: 806932699
 Elapsed CPU time: 406250000
-Heap memory: 258284640 bytes
-Non-heap memory: 8814712 bytes
+Heap memory: 196723144
+Non-heap memory: 8452160 
 
